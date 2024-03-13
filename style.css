@@ -3,6 +3,9 @@ body {
   padding: 0;
   /* background-color: rgb(222, 223, 233); */
   background-image: url("./pic/undersea\ small.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* height: 100vh; */
   border: 2px solid blue;
 }
 
