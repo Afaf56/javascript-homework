@@ -13,8 +13,8 @@ body {
 #btn {
   position: absolute;
   background: transparent;
-  padding: 61px 100px;
-  border: none;
   background-image: url(./pic/fish1.png);
   background-repeat: no-repeat;
+  padding: 61px 100px;
+  border: none;
 }
